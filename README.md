@@ -1,7 +1,7 @@
 # SapBlogs
 
 
-Algunos *blogs* del pasado escritos para la comudad de blogs de SAP.
+Algunos *blogs* del pasado escritos para la comudad de desarrolladores de SAP.
 
 Análsis topológico de datos:
 
